@@ -12,3 +12,4 @@ Simple steps to creating a histogram using community data.
 
 4. Look for the variable "Food insecurity" under the Additional Measere Data, table. Drag and drop the "Food insecurity" to the Rows box the red arrow is pointing at. 
 Repeat the process but with the variable "County" under the Additional Measere Data, table. But this time drag and drop "County" to the Columns box.
+![Columns and Rows](https://github.com/yassminarlen/Creating-histogram-tableau/blob/main/Columns%20and%20Rows.png?raw=true)
