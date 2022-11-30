@@ -8,4 +8,5 @@ Simple steps to creating a histogram using community data.
 ![Renamed Sheet](https://github.com/yassminarlen/Creating-histogram-tableau/blob/main/renamed%20sheet.png?raw=true) 
 
 3. Time to add some filters to our data. Look up 'state' in the search bar, drag and drop "State" data under the "Additional Measure Data" table to the red underlined box titled "Filters." You will get a pop-up screen where you could filter the data to the state of your preference, for this instance we will go with Arizona data. 
-![Adding Filters](
+![Adding Filters](https://github.com/yassminarlen/Creating-histogram-tableau/blob/main/Adding%20Filters.png?raw=true)
+
