@@ -20,3 +20,5 @@ Food insecurity means there is a lack of consistent food, the limited access to 
 
 
 5. It is important to exclude the null from our bar chart to prevent ambiguous interpretations. To exclude the null right click the bar labeled "null", then click "exclude" to remove it from the bar chart.   
+
+![Exclude] (https://github.com/yassminarlen/Creating-barchart-tableau/blob/main/null.png?raw=true)
