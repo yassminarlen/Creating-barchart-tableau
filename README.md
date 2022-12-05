@@ -1,4 +1,4 @@
-# Creating-histogram-tableau
+# Creating-BarChart-tableau
 Simple steps to creating a histogram using community data. 
 
 1. Highlighted at the bottom of the left side of the screen is "Sheet 1", right click it. 
