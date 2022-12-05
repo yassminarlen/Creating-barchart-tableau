@@ -13,7 +13,7 @@ Bar charts could be used to compare data across categories.
 ![Adding Filters] (https://github.com/yassminarlen/Creating-barchart-tableau/blob/main/Adding%20FIlters.png?raw=true)
 4. Look for the variable "Food insecurity" under the Additional Measere Data, table. Drag and drop the "Food insecurity %" to the Rows box the red arrow is pointing at. 
 Repeat the process but with the variable "County" under the Additional Measere Data, table. But this time drag and drop "County" to the Columns box.
-![Columns and Rows](https://github.com/yassminarlen/Creating-histogram-tableau/blob/main/Columns%20and%20Rows.png?raw=true)
+![Columns and Rows](https://github.com/yassminarlen/Creating-barchart-tableau/blob/main/barchart%20r&c.png?raw=true)
 
 >The 2022 County Health Rankings included food insecurity as a health risk.
 Food insecurity means there is a lack of consistent food, the limited access to food increases the chances of negative health outcomes like weight-gain, or premature death. Food insecurity also measures the ability of individuals and families to secure balanced meals.
