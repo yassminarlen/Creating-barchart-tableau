@@ -19,4 +19,4 @@ Repeat the process but with the variable "County" under the Additional Measere D
 Food insecurity means there is a lack of consistent food, the limited access to food increases the chances of negative health outcomes like weight-gain, or premature death. Food insecurity also measures the ability of individuals and families to secure balanced meals.
 
 
-5. You now have a barchart that displays the SUM of people facing food insecurity in each county in Arizona. The NULL could be excluded for presenstation purposes. 
+5. It is important to exclude the null from our bar chart to prevent ambiguous interpretations.  
