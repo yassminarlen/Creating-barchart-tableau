@@ -11,7 +11,7 @@ Bar charts could be used to compare data across categories.
 
 3. Time to add some filters to our data. Look up 'state' in the search bar, drag and drop "State" data under the "Additional Measure Data" table to the red underlined box titled "Filters." You will get a pop-up screen where you could filter the data to the state of your preference, for this instance we will go with Arizona data. 
 ![Adding Filters] (https://github.com/yassminarlen/Creating-barchart-tableau/blob/main/Adding%20FIlters.png?raw=true)
-4. Look for the variable "Food insecurity" under the Additional Measere Data, table. Drag and drop the "Food insecurity" to the Rows box the red arrow is pointing at. 
+4. Look for the variable "Food insecurity" under the Additional Measere Data, table. Drag and drop the "Food insecurity %" to the Rows box the red arrow is pointing at. 
 Repeat the process but with the variable "County" under the Additional Measere Data, table. But this time drag and drop "County" to the Columns box.
 ![Columns and Rows](https://github.com/yassminarlen/Creating-histogram-tableau/blob/main/Columns%20and%20Rows.png?raw=true)
 
