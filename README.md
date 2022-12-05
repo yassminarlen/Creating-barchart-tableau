@@ -19,4 +19,4 @@ Repeat the process but with the variable "County" under the Additional Measere D
 Food insecurity means there is a lack of consistent food, the limited access to food increases the chances of negative health outcomes like weight-gain, or premature death. Food insecurity also measures the ability of individuals and families to secure balanced meals.
 
 
-5. It is important to exclude the null from our bar chart to prevent ambiguous interpretations.  
+5. It is important to exclude the null from our bar chart to prevent ambiguous interpretations. To exclude the null right click the bar labeled "null", then click "exclude" to remove it from the bar chart.   
