@@ -36,4 +36,8 @@ The U.S. The Department of Agriculture debriefs that there are a variety of fact
 
 -Neighborhood-level indicators of resources, such as the average income of the neighborhood and the availability of public transportation (USDA ERS - Documentation, n.d.).
 
+### Resources
 
+>Food Insecurity*. (n.d.). County Health Rankings & Roadmaps. Retrieved October 17, 2022, from https://www.countyhealthrankings.org/explore-health-rankings/measures-data-sources/county-health-rankings-model/health-factors/health-behaviors/diet-exercise/food-insecurity
+
+>USDA ERS - Documentation. (n.d.). Retrieved October 17, 2022, from https://www.ers.usda.gov/data-products/food-access-research-atlas/documentation/
