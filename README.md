@@ -1,5 +1,7 @@
 # Creating-BarChart-tableau
-Simple steps to creating a histogram using community data. 
+Simple steps to creating a barchart using community data. 
+Bar charts could be used to compare data across categories.
+
 
 1. Highlighted at the bottom of the left side of the screen is "Sheet 1", right click it. 
 ![Sheet 1](https://github.com/yassminarlen/Creating-histogram-tableau/blob/main/sheet%201.png?raw=true)
@@ -14,4 +16,8 @@ Simple steps to creating a histogram using community data.
 Repeat the process but with the variable "County" under the Additional Measere Data, table. But this time drag and drop "County" to the Columns box.
 ![Columns and Rows](https://github.com/yassminarlen/Creating-histogram-tableau/blob/main/Columns%20and%20Rows.png?raw=true)
 
-5. You now have a histogram that displays the SUM of people facing food insecurity in each county in Arizona. The NULL could be excluded for presenstation purposes. 
+>The 2022 County Health Rankings included food insecurity as a health risk.
+Food insecurity means there is a lack of consistent food, the limited access to food increases the chances of negative health outcomes like weight-gain, or premature death. Food insecurity also measures the ability of individuals and families to secure balanced meals.
+
+
+5. You now have a barchart that displays the SUM of people facing food insecurity in each county in Arizona. The NULL could be excluded for presenstation purposes. 
